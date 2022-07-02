@@ -28,10 +28,10 @@
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/jeffin-g-benny
+
 
 
 
 [instagram]: https://instagram.com/jeffingbenny16
-[linkedin]: https://www.linkedin.com/in/jeffin-g-benny
+[linkedin]: https://www.linkedin.com/in/jeffin-g-benny-a445691b1
 [telegram]: https://t.me/+916235230906
