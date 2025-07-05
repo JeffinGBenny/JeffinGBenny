@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-## I'm a Student Developer
+## I'm a full stack Developer
 
 
-- Mainly into App,web deveopment and machine learning
+- Mainly into web, mobile deveopment and machine learning
 
 
 ### Contacts:
